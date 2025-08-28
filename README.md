@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [atuacao.html](https://github.com/user-attachments/files/22017887/atuacao.html)[Código.txt](https://github.com/user-attachments/files/22017468/Codigo.txt)
 [index.html](https://github.com/user-attachments/files/22017470/index.html)
 [style.css](https://github.com/user-attachments/files/22017471/style.css)
@@ -9,3 +10,6 @@
 [contato.html](https://github.com/user-attachments/files/22017895/contato.html)
 [agendamento.html](https://github.com/user-attachments/files/22017896/agendamento.html)
 [criptoativos-marco-legal.html](https://github.com/user-attachments/files/22017897/criptoativos-marco-legal.html)
+=======
+
+>>>>>>> 1d8ba16 (Initial commit)
